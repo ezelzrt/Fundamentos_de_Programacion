@@ -4,7 +4,7 @@
 ---
 ### Para ejecutar el sudoku por consola
 ```
-main.py
+python main.py
 ```
 ---
 ### Para ejecutar las pruebas brindadas por la catedra
