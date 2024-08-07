@@ -1,4 +1,4 @@
-# Introducción al Desarrollo de Software - cátedra Essaya (75.40 / 95.14)
+# Fundamentos de Programación - cátedra Essaya (75.40 / 95.14)
 
 - Durante toda la cursada se utilizo Python
 - Tambien se utilizo [Gamelib](https://github.com/dessaya/python-gamelib) como complemento de las entregas, una libreria/framework para escribir juegos simples desarrollada por el jefe de catedra.
@@ -16,3 +16,12 @@
 
 ### [TP3: Pokemon-Showdown](https://github.com/ezelzrt/Intro_desarrollo_de_software/tree/d60bede198423dc9ce667558385eefa8eb13897d/TP3-Pokemon-Showdown)
 - Luego de implementar el Pokedex que nos permitía armar equipos de Pokemon, la idea era poder utilizarlos. El objetivo del trabajo era hacer una implementación (reducida, más básica) del conocido juego Pokemon Showdown utilizando los equipos generables con el trabajo práctico anterior.
+
+## Contenidos Mínimos de la Asignatura
+
+Práctica de programación. Buenas prácticas. Algoritmos y programas. Variables, expresiones, tipos de
+datos. Funciones y programación modular. Abstracción. Tipos de datos básicos, datos estructurados.
+Estructuras de control. Algoritmos secuenciales básicos. Algoritmos de Búsqueda. Algoritmos de
+Ordenamientos comparativos. Archivos de texto y binarios. Memoria de una computadora: punteros,
+pila de ejecución. Recursividad. Manejo de memoria dinámica ante la ausencia de recolección de
+basura automática.
